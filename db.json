@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "id": "2",
+      "age": 40
+    },
+    {
+      "name": "Ankit",
+      "age": 18,
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Rahul",
+      "age": 22
+    },
+    {
+      "0": {
+        "name": "SRK",
+        "age": 35,
+        "id": "5"
+      },
+      "1": {
+        "id": "1",
+        "name": "Sameer",
+        "age": 52
+      },
+      "id": "d352"
+    }
+  ]
+}
